@@ -2,20 +2,20 @@
 import time
 class operations:
 
-        print("50")
+        cash50=0
 
 
-        print("100")
+        cash100=0
 
 
-        print("200")
+        cash200=0
 
 
-        print("300")
+        cash300=0
 
-        print("500")
+        cash500=0
 
-        print("800")
+        cash800=0
 
         print("another option") ##leads to new window
 
@@ -35,7 +35,7 @@ class operations:
 
         ##new window
 
-        if(len(l)<4):
+        if(len(l)<=4):
 
 
 
