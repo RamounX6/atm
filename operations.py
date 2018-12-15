@@ -35,7 +35,7 @@ class operations:
 
         ##new window
 
-        if(len(l)<4):
+        if(len(l)<=4):
 
 
 
